@@ -1,0 +1,18 @@
+Admin
+
+username- admin
+pssword- admin123
+
+
+
+Farmer
+
+username- rana123
+pssword- rana123
+
+
+
+Field Officer
+
+username- laki123
+pssword- laki123
